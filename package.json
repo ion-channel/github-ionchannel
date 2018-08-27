@@ -1,9 +1,0 @@
-{
-  "dependencies": {
-    "eslint-config-airbnb-standard": "2.0.0",
-    "eslint-config-eslint": "5.0.2",
-    "eslint-scope": "3.7.2"
-  },
-  "devDependencies": {
-  }
-}
